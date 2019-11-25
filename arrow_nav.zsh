@@ -44,3 +44,7 @@ bindkey '^[[1;3B'      down
 bindkey '^[[1;3C'      right
 bindkey '^[[1;3A'      up
 bindkey '^[[1;3D'      left
+bindkey '[B'      down
+bindkey '[C'      right
+bindkey '[A'      up
+bindkey '[D'      left
